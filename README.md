@@ -1,4 +1,4 @@
-# [awesome-websec](https://github.com/arainho/awesome-websec)
+# [awesome-web-security](https://github.com/arainho/awesome-web-security)
 
 **A collection of awesome Web Security tools and resources.**
 

@@ -25,5 +25,5 @@ Repository | Description
 ## Other useful repositories
 Repository | Description
 ---- | ----
-
+[web-hacking-101](https://leanpub.com/web-hacking-101/read) | Web Hacking 101 by Peter Yaworski
 

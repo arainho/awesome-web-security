@@ -26,4 +26,5 @@ Repository | Description
 Repository | Description
 ---- | ----
 [web-hacking-101](https://leanpub.com/web-hacking-101/read) | Web Hacking 101 by Peter Yaworski
+[web_application_testing](https://github.com/The-Art-of-Hacking/h4cker/tree/master/web_application_testing) | Web Application Testing References by Omar Santos
 

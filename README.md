@@ -21,6 +21,7 @@ Repository | Description
 ---- | ----
 [portswigger-web-security](https://portswigger.net/web-security) | Free, online web security training from the creators of Burp Suite
 [hacker101](https://www.hacker101.com/) | Hacker101 is a free class for web security including Videos, CTF and resources
+[kontra-owasp-top10-for-web](https://application.security/free/owasp-top-10-API) | Is a series of interactive application security training modules to help developers understand, identify and mitigate security vulnerabilities in their applications..
 
 ## Other useful repositories
 Repository | Description
